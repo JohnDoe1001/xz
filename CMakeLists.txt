@@ -1651,6 +1651,8 @@ if(NOT MSVC OR MSVC_VERSION GREATER_EQUAL 1900)
         src/common/sysdefs.h
         src/common/tuklib_common.h
         src/common/tuklib_config.h
+        src/common/tuklib_cntrl_chars.c
+        src/common/tuklib_cntrl_chars.h
         src/common/tuklib_exit.c
         src/common/tuklib_exit.h
         src/common/tuklib_gettext.h
